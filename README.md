@@ -2,10 +2,6 @@
 
 I am Farras, a third-year Informatics student at Institut Teknologi Bandung.
 
-I am currently focusing on Competitive Programming and Web Development.
-My interest is AI/ML, Quantum Computing, Theoretical CS. Quite heavy, huh.
-Even I don't know about them, yet. Sounds fancy though, and therefore interesting.
-
 * 📫 How to reach me: [LinkedIn](), [Facebook](), [Instagram](), [Email]()
 * 🌱 I’m currently searching for the meaning of my code
 
