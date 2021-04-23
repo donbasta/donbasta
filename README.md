@@ -2,7 +2,7 @@
 
 I am Farras, a third-year Informatics student at Institut Teknologi Bandung.
 
-* 📫 How to reach me: [LinkedIn](), [Facebook](), [Instagram](), [Email]()
+* 📫 How to reach me: [LinkedIn](https://linkedin.com/in/farrasfaddila/), [Facebook](https://www.facebook.com/farrashibban.faddila/), [Instagram](https://www.instagram.com/faddilafarras/), [Email](mailto:faddilafarras@gmail.com)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=donbasta&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
