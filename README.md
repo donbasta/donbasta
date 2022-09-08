@@ -4,6 +4,9 @@ I am Farras, a final-year Informatics student at Institut Teknologi Bandung.
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/farrasfaddila/), [Facebook](https://www.facebook.com/farrashibban.faddila/), [Instagram](https://www.instagram.com/faddilafarras/), [Email](mailto:faddilafarras@gmail.com)
 
+* My website (on progress) [web](https://www.faddilafarras.me)
+* Check out my math blog here: [Mathy](https://mathy.faddilafarras.me)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=donbasta&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://komarev.com/ghpvc/?username=donbasta&color=brightgreen) -->
