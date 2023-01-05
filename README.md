@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Farras, an Informatics undergrad student at Institut Teknologi Bandung. I am interested in Computer Vision, Deep Learning, Theoretical CS, and Music Theory.
+I am Farras, an Informatics undergrad student at Institut Teknologi Bandung. I am interested in Computer Vision, Deep Learning, Theoretical CS, Linguistics, and Music Theory.
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/farrasfaddila/), [Facebook](https://www.facebook.com/farrashibban.faddila/), [Instagram](https://www.instagram.com/faddilafarras/), [Email](mailto:faddilafarras@gmail.com)
 
